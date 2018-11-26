@@ -17,7 +17,7 @@
 
 div.firstrow {
   display: inline;
-  position: fixed;
+  position: absolute;
   clear: both;
 }
 
