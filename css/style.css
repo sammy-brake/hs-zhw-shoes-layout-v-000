@@ -18,16 +18,18 @@ div.firstrow {
 }
 
 div.secondrow {
-  
+
 
 }
 
 .shoeleft {
   width: 33%;
+  float: left;
 }
 
 .shoeright {
   width: 33%;
+  float: right;
 }
 
 
