@@ -11,6 +11,7 @@
 .right {
   float: right;
   width: 33%;
+  margin-bottom: 20px;
 }
 
 div.firstrow {
@@ -18,7 +19,7 @@ div.firstrow {
 }
 
 div.secondrow {
- 
+
 
 }
 
