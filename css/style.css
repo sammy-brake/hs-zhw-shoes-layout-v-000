@@ -28,6 +28,8 @@ div.secondrow {
 clear: both;
 position: relative;
 display: inline;
+height: 100%; 
+min-height: 100%;
 }
 
 .shoeleft {
