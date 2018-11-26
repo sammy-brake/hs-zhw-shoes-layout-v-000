@@ -25,6 +25,7 @@ div.secondrow {
 .shoeleft {
   width: 33%;
   float: left;
+  margin: 1%;
 }
 
 .shoeright {
