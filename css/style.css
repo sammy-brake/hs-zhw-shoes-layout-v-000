@@ -23,7 +23,11 @@ div.secondrow {
 }
 
 .shoeleft {
-  width: 33%
+  width: 33%;
+}
+
+.shoeright {
+  width: 33%;
 }
 
 
