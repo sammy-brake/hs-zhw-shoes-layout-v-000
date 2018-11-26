@@ -16,10 +16,12 @@
   height: 100%;
 }
 
-div.firstrow {
+.firstrow {
   display: inline;
   position: relative;
   clear: both;
+  height: 100%;
+  min-height: 100%;
 }
 
 div.secondrow {
