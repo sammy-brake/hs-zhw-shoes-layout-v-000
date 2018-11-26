@@ -14,10 +14,11 @@
   margin-bottom: 40px;
 }
 
-/*div.firstrow {
+div.firstrow {
   display: inline;
   position: relative;
-}*/
+  clear: box;
+}
 
 div.secondrow {
 clear: both;
