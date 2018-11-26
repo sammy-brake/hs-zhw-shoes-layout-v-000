@@ -1,6 +1,16 @@
 /********** Web Fonts **********/
 @import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900); /* font-family: 'Elsie Swash Caps', cursive; */
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script); /* font-family: 'Clicker Script', cursive; */
+/* My Code - Columns */
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
 
 /* scale all images, and media to accomodate responsive layout. */
 img, video, audio, iframe, table, form { 
