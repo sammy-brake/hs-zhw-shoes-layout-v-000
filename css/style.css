@@ -13,7 +13,7 @@
   width: 33%;
 }
 
-.firstrow {
+section.firstrow {
   display: block;
   background-color: black;
   z-index: 3;
