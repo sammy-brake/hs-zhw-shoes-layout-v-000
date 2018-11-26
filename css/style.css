@@ -29,7 +29,7 @@ clear: both;
 .shoeleft {
   width: 32%;
   float: left;
-  margin: 1%;
+  margin: .5%;
 }
 
 .shoeright {
