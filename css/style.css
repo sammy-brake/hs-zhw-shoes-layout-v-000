@@ -24,6 +24,7 @@ div.firstrow {
 
 div.secondrow {
 clear: both;
+position: relative;
 }
 
 .shoeleft {
