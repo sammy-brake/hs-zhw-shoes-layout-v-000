@@ -19,6 +19,11 @@ div.firstrow {
 
 div.secondrow {
   display: inline;
+  position: relative;
+}
+
+.shoeleft {
+  width: 33%
 }
 
 
