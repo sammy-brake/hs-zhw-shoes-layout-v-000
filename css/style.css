@@ -17,7 +17,7 @@
 div.firstrow {
   display: inline;
   position: relative;
-  clear: box;
+  clear: both;
 }
 
 div.secondrow {
